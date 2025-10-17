@@ -8,7 +8,7 @@ h1{
 }
 
 #canvas {
-  border: 5px solid black;
+  border: 50px solid rgb(114, 5, 81);
   height: 500px;
   width: 900px;
   margin-bottom: 2em;
@@ -27,7 +27,7 @@ button {
   color: white;
   border: none;
   padding: 15px;  
-  border-radius: 50px;
+  border-radius: 90px;
   width: 120px;
 }
 
@@ -42,7 +42,7 @@ button {
 #vol-slider, #thickness {
   width: 200px;
   appearance: none;
-  background: white;
+  background: rgb(250, 236, 249);
   border-radius: 50px;
 }
 
